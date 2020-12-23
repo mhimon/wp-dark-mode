@@ -41,7 +41,7 @@ if ( ! class_exists( 'WP_Dark_Mode' ) ) {
 		 * Plugin version.
 		 *
 		 * @since  1.0.0
-		 * @access private
+		 * @access public
 		 * @var string
 		 */
 		public $version = '1.3.2';
